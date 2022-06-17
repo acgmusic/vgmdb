@@ -1,5 +1,5 @@
 # pyvgmdb
-parse Japanese artitst and album imformations from vgmdb
+get artitst and album imformations from vgmdb
 
 you can use this python tool to get:
 

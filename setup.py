@@ -9,12 +9,12 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'pyvgmdb'
-DESCRIPTION = 'parse Japanese artitst and album imformations from vgmdb'
+DESCRIPTION = 'get artitst and album imformations from vgmdb'
 URL = 'https://github.com/acgmusic/vgmdb'
 EMAIL = '1152764556@qq.com'
 AUTHOR = 'acgmusic'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.2'
+VERSION = '0.1.3'
 
 
 REQUIRED = []
