@@ -5,6 +5,7 @@ from lxml import etree
 import warnings
 import os
 import re
+import json
 
 
 class Album:

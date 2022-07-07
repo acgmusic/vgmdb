@@ -1,5 +1,5 @@
 from selenium.webdriver import Chrome
-from thread_tools import res_pool_parallel
+from pyvgmdb.thread_tools import res_pool_parallel
 
 driver = Chrome()
 
